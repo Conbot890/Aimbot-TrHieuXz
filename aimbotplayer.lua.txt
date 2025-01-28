@@ -2,15 +2,15 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
 
        local Window = MakeWindow({
          Hub = {
-         Title = "Văn Thành IOS",
+         Title = "TrHieuXz Hub",
          Animation = "Script Săn Bounty"
          },
         Key = {
         KeySystem = true,
-        Title = "Văn Thành IOS / Script Săn Bounty",
-        Description = "",
-        KeyLink = "",
-        Keys = {"VanThanhIOS2025"},
+        Title = "TrHieuXz Hub / Script Săn Bounty",
+        Description = "Cảm Ơn Bạn Đã Sử Dụng Script Của Tuii",
+        KeyLink = "https://sub4unlock.io/9NM2u",
+        Keys = {"TrHieuXz2025"},
         Notifi = {
         Notifications = true,
         CorrectKey = "Đang Chạy Kịch Bản",
